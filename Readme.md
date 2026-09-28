@@ -136,11 +136,11 @@ The Power BI report contains two interactive pages.
 
 ### Page 1 — HR Workforce Overview
 
-![HR Workforce Overview](Screenshots/HR_Workforce_Overview.png)
+![HR Workforce Overview](ScreenShots/HR_Workforce_Overview.png)
 
 ### Page 2 — Exit & Attrition Analysis
 
-![Exit & Attrition Analysis](Screenshots/Exit_Attrition_Analysis.png)
+![Exit & Attrition Analysis](ScreenShots/Exit_Attrition_Analysis.png)
 
 ## 📈 Key Business Insights
 
