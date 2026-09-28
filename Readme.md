@@ -132,6 +132,16 @@ The Power BI report contains two interactive pages.
 * Gender
 * City
 
+## 📸 Dashboard Screenshots
+
+### Page 1 — HR Workforce Overview
+
+![HR Workforce Overview](Screenshots/HR_Workforce_Overview.png)
+
+### Page 2 — Exit & Attrition Analysis
+
+![Exit & Attrition Analysis](Screenshots/Exit_Attrition_Analysis.png)
+
 ## 📈 Key Business Insights
 
 Based on the analyzed dataset:
