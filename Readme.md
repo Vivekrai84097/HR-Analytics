@@ -75,9 +75,9 @@ SQL techniques used included:
 * `COUNT()`
 * Aggregate functions
 * `JOIN`
-* CTEs
 * Window functions
-* Subqueries
+* CASE expressions
+* VIEW creation
 * Analytical queries
 
 ## 📊 Power BI Dashboard
